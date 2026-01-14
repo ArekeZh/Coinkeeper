@@ -123,7 +123,7 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/yourusername/coinkeeper_final.git
+   git clone https://github.com/ArekeZh/Coinkeeper.git
    cd coinkeeper_final
    ```
 
