@@ -261,13 +261,13 @@ coinkeeper_final/
 ## 📸 Скриншоты
 
 ### Дашборд
-![Dashboard](C:\Users\areke\AppData\Local\Programs\Coding_apps\Git\coinkeeper_final\src\assets\photos_for_readme\dashboard.png)
+![Dashboard](./src/assets/photos_for_readme/dashboard.png)
 
 ### Аналитика
-![Reports](C:\Users\areke\AppData\Local\Programs\Coding_apps\Git\coinkeeper_final\src\assets\photos_for_readme\report.png)
+![Reports](./src/assets/photos_for_readme/report.png)
 
 ### Настройки
-![Settings](C:\Users\areke\AppData\Local\Programs\Coding_apps\Git\coinkeeper_final\src\assets\photos_for_readme\settings.png)
+![Settings](./src/assets/photos_for_readme/settings.png)
 
 
 ---
